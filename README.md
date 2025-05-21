@@ -12,6 +12,7 @@ Il consiste à mettre en place une infrastructure réseau sous Windows Server 20
 - L’attribution dynamique des adresses IP via DHCP
 - La gestion des mises à jour Windows avec WSUS
 - L’application de stratégies de sécurité et de configuration via les GPO
+- La mise en place d'un service d'authentification Kerberos
 
 ## Objectifs pédagogiques
 
@@ -22,6 +23,7 @@ Il consiste à mettre en place une infrastructure réseau sous Windows Server 20
 ## Technologies utilisées
 
 - Windows Server 2016
+- Debian 12 (Serveur)
 - Windows 10 Pro (client)
 - VMware Workstation
 - Active Directory, DNS, DHCP, WSUS, GPO
